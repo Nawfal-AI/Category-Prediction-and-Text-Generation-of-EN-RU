@@ -5,7 +5,7 @@ from raw question collection through translation, quality filtering, and categor
 plus a LoRA fine-tuning pipeline that trains Qwen2.5 on it for category prediction and
 text generation.
 
-Originally a group project for the NLP course at USI Lugano.
+
 
 ## What's in this repo
 
